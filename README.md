@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my name is Julian and this is my personal repository. 👋
 
 <!--
 **julianjm1998-source/julianjm1998-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
